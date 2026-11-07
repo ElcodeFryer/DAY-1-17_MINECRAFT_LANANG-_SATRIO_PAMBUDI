@@ -1,7 +1,8 @@
 # DAY-1-17_MINECRAFT_LANANG-_SATRIO_PAMBUDI
 Repository mengenai kegiatan expectik 2026
 Nama Lengkap: Lanang Satrio Pambudi
-Deskripsi singkat repository: repository adalah tempat untuk menyimpan juga untuk mengelola suatu projet atau file
+Deskripsi singkat repository: repository adalah tempat untuk menyimpan juga untuk mengelola suatu projet atau file,
+
 Pengetahuan yang baru saya ketahui pada workshop kali ini ialah:
 - Pada zaman ini sudah ada yang namanya Prompt Enginnering, Yaitu seseoraang yang ahli dalam membuat suatu prompt yang dapat diberikan kepada suatu model dengan sangat jelas, terstruktur, sesuai konteks, dan meningkatkan output yang diinginkan.
 - Dalam kegiatan melakukan prommpting, kita tidak boleh hanya memberikan perintah tanpa konteks kepada AI karena hal tersebut akan mengonsumsi cost yang sangat tinggi juga membuat kitaa tidak dapat mengendalikan apa yang AI buat untuk kita, Sehingga terkadang output yang dihasilkan bisa jadi diluar keinginan kita.

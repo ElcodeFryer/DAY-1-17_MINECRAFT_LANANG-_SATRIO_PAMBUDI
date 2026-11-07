@@ -10,4 +10,6 @@ Pengetahuan yang baru saya ketahui pada workshop kali ini ialah:
   2) Kita memberikan tugas kepada AI tersebut. Setelah kita memberikan role kepada AI tersebut kita bisa lanjut dengan memberikan perintah atau tugasnya kepada AI tersebut.
   3) Kita wajib memberikan konteksnya kepada AI tersebut. Seperti yang sudah saya beritahu pada point ke 2, kita tidak boleh hanya memberikan tugas kepada AI tanpa menjelaskan konteksnya kepada AI tersebut. Mengapa demikian? Karena apabila hal itu terjadi kemungkinan terbesarnya ialah output yang dihasilkan AI tersebut tidak akan sesuai dengan keinginan awal kita.
   4) Kita harus memberikan formatnya kepada AI tersebut, Supaya AI tersebut bekerja sesuai apa yang kita mau tidak kurang dan tidak lebih. Apabila dia bekerja lebih dari apa yang kita inginkan maka biaya(cost) / token yang digunakan untuk menjalankan prompt ini akan begitu besar
+- Saya juga jadi mengetahui perbedaan antara git dan github.
+- Juga saya mengetahui banyak perintah dalam git, seperti git ini, git pull origin main, git push, dll
 - Kesan DAY 1: event nya seru dan mantap. Alhamdulillah.
